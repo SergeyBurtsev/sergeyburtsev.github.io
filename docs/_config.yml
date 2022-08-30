@@ -27,6 +27,7 @@ url: "https://burtsev.com" # the base hostname & protocol for your site, e.g. ht
 twitter_username: sergey_burtsev
 github_username:  SergeyBurtsev
 linkedin_username:  sergey-burtsev
+google_analytics: G-KSGL7RVV8F
 
 # Build settings
 theme: minima
